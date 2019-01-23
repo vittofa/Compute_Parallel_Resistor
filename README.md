@@ -1,0 +1,1 @@
+# Compute_Parallel_Resistor
